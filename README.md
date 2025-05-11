@@ -32,7 +32,7 @@ Saya Qisthi Ramadhani, developer asal Magetan, Jawa Timur. Saat ini melayani ber
 
 ### 📫 Online Presence
 
-[YouTube](https://youtube.com/QisthiDev) | [Instagram](https://instagram.com/qisthidev) | [Twitter](https://twitter.com/ramageek) | rama@qisthi.dev
+[YouTube](https://youtube.com/@QisthiDev) | [Instagram](https://instagram.com/qisthidev) | [Twitter](https://twitter.com/ramageek) | rama@qisthi.dev
 
 ### 🎯 Fokus Anda Sekarang
 

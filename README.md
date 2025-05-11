@@ -26,7 +26,7 @@ Saya Qisthi Ramadhani, developer asal Magetan, Jawa Timur. Saat ini melayani ber
 
 ### 🚀 Tentang Saya
 
-- **Posisi sekarang:** Tech Lead di PT Javan Cipta Solusi
+- **Posisi sekarang:** Level 5 Programmer di PT Javan Cipta Solusi
 - **Utama di:** Laravel, Remix (React)
 - **Baru belajar:** Go dan Loco.rs (Rust, Rails-style framework) 
 
